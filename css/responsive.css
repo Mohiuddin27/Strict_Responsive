@@ -1,4 +1,4 @@
-@media only screen and (max-width: 600px) {
+@media(max-width: 576px) {
 
 .banner p{
     display:block;
