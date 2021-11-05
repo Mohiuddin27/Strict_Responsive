@@ -165,3 +165,72 @@
         text-align: center;
     }
 }
+@media(min-width:992px) and (max-width:1200px) {
+
+    .banner p{
+        display:block;
+        margin:0 auto;
+        text-align: center;
+    }
+    
+    .button{
+        display:block;
+    margin:0 auto;
+    margin-left:33%;
+    margin-top:40px;
+    text-align: center;
+      
+    }
+    .fas.fa-angle-down{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-right:30px;
+       
+    }
+    .photo1{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo6{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo2{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo3{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo4{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo5{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .button1{
+    display:block;
+    margin:0 auto;
+    float:right;
+    }
+    .foot{
+        display: block;
+        margin:0 auto;
+        text-align: center;
+    }
+    .icon-foot{
+        display: block;
+        margin:0 auto;
+        text-align: center;
+    }
+}
