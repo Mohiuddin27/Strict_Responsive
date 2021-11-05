@@ -1,4 +1,4 @@
-@media(max-width: 576px) {
+@media(min-width:320px) and (max-width:420px) {
 
 .banner p{
     display:block;
@@ -32,7 +32,76 @@
 }
 
 }
-@media(min-width: 576.01px) and (max-width:768px) {
+@media(min-width:420px) and (max-width:577px) {
+
+    .banner p{
+        display:block;
+        margin:0 auto;
+        text-align: center;
+    }
+    
+    .button{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .fas.fa-angle-down{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+       
+    }
+    .button1{
+        display:block;
+        margin:0 auto;
+        float:right;
+        margin-top:10px;
+    }
+    .photo1{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo6{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo2{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo3{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo4{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .photo5{
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .foot p{
+        display:block;
+        margin:0 auto;
+        text-align: center;
+    }
+    .icon-foot{ 
+        display:flex;
+        flex-direction: row;
+        justify-content: center;
+        justify-content: space-around;
+        
+    }
+    
+    }
+@media(min-width: 576px) and (max-width:768px) {
 
     .banner p{
         display:block;
