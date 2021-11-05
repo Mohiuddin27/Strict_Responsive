@@ -1,0 +1,34 @@
+@media only screen and (max-width: 600px) {
+
+.banner p{
+    display:block;
+    margin:0 auto;
+    text-align: center;
+}
+
+.button{
+    display:block;
+    margin:0 auto;
+    margin-left:33%;
+    margin-top:40px;
+    text-align: center;
+}
+.button1{
+    display:block;
+    margin:0 auto;
+    float:right;
+    margin-top:10px;
+}
+.foot p{
+    display:block;
+    margin:0 auto;
+    text-align: center;
+}
+.icon-foot{ 
+    display:block;
+    margin:0 auto;
+    margin-left:110px;
+    
+}
+
+}
