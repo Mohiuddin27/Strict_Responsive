@@ -25,9 +25,10 @@
     text-align: center;
 }
 .icon-foot{ 
-    display:block;
-    margin:0 auto;
-    margin-left:110px;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
     
 }
 
@@ -41,9 +42,11 @@
     }
     
     .button{
-        display:flex;
-        flex-direction: row;
-        justify-content: center;
+        display:block;
+    margin:0 auto;
+    margin-left:33%;
+    margin-top:40px;
+    text-align: center;
     }
     .fas.fa-angle-down{
         display:flex;
